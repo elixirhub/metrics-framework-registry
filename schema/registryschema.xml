@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<components_metrics>
+  <component>
+    <name>str1234</name>
+    <description>str1234</description>
+    <authors>str1234</authors>
+    <input>
+      <parameter>str1234</parameter>
+    </input>
+    <output>str1234</output>
+    <dependencies>
+      <library>str1234</library>
+    </dependencies>
+    <frequency>str1234</frequency>
+    <resources>
+      <rsc>str1234</rsc>
+    </resources>
+    <repository>str1234</repository>
+    <id>str1234</id>
+    <version>str1234</version>
+    <lastupdate>2012-12-13T12:12:12</lastupdate>
+  </component>
+  <component>
+    <name>metrics-module-citation</name>
+    <description>Citations in publications</description>
+    <authors>Artaza Haydee, Manuel Corpas, Rafael Jimenez</authors>
+    <input>
+      <parameter>swissprot,swiss prot,swiss-prot,UniProtKB,uniprot</parameter>
+    </input>
+    <output>number</output>
+    <dependencies>
+      <library>xml2js</library>
+    </dependencies>
+    <frequency>monthly</frequency>
+    <resources>
+      <rsc>database</rsc>
+    </resources>
+    <repository>https://github.com/elixirhub/metrics-module-citation.git</repository>
+    <id>metrics-module-citation-EJn891E8</id>
+    <version>final</version>
+    <lastupdate>12/5/2015</lastupdate>
+  </component>
+</components_metrics>
